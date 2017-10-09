@@ -1,6 +1,6 @@
 # OCKnowledgePoint
 
-1. (runtime)[#runtime-link]
+1. [runtime](#runtime-link)
 
 
 
