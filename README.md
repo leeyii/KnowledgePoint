@@ -12,7 +12,7 @@
 
 ------
 
-<a name='runtieme@'></a>**runtiem** 							
+#### <a name='runtieme@'></a>**runtime** 							
 
     [神经病院Objective-C Runtime入院第一天——isa和Class](http://www.jianshu.com/p/9d649ce6d0b8)   	
 
