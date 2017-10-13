@@ -24,6 +24,10 @@
 * [Objc 对象的今生今世](http://www.jianshu.com/p/f725d2828a2f)	
 * [深入理解Objective-C：Category](https://tech.meituan.com/DiveIntoCategory.html)
 
+#### <a name='runloop@'></a>**runloop@** 	
+
+* [深入理解RunLoop](https://blog.ibireme.com/2015/05/18/runloop/)
+
 #### <a name='响应链'></a>**响应链@**
 
 * [事件传递响应链](http://www.cocoachina.com/ios/20160113/14896.html)
